@@ -126,7 +126,7 @@ String searchh = searchbox.getText();
 
         jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 110, 40, 30));
 
-        table1.setBackground(new java.awt.Color(0, 153, 153));
+        table1.setBackground(new java.awt.Color(153, 153, 255));
         table1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {null, null, null, null},
@@ -193,7 +193,7 @@ String searchh = searchbox.getText();
 
         jPanel1.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, 510, 60));
 
-        jPanel9.setBackground(new java.awt.Color(153, 255, 204));
+        jPanel9.setBackground(new java.awt.Color(153, 153, 153));
         jPanel9.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel4.setFont(new java.awt.Font("Tempus Sans ITC", 1, 36)); // NOI18N
@@ -202,6 +202,7 @@ String searchh = searchbox.getText();
         jLabel4.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jPanel9.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 0, 390, 80));
 
+        jLabel5.setBackground(new java.awt.Color(153, 153, 153));
         jLabel5.setFont(new java.awt.Font("Tempus Sans ITC", 1, 48)); // NOI18N
         jLabel5.setText("Activity");
         jPanel9.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 10, 270, 50));
@@ -241,7 +242,7 @@ String searchh = searchbox.getText();
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
-        AdminLog2 ob = new AdminLog2();
+        PatientInfo ob = new PatientInfo();
         ob.setVisible(true);
         this.dispose();
         

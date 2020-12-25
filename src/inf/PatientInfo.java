@@ -166,7 +166,7 @@ public void clear(){
         jPanel4.setBackground(new java.awt.Color(204, 204, 204));
         jPanel4.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        table1.setBackground(new java.awt.Color(0, 153, 153));
+        table1.setBackground(new java.awt.Color(153, 255, 204));
         table1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {null, null, null, null},
@@ -271,7 +271,7 @@ public void clear(){
         jPanel1.setBackground(new java.awt.Color(51, 51, 51));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel5.setBackground(new java.awt.Color(102, 102, 102));
+        jPanel5.setBackground(new java.awt.Color(153, 153, 153));
         jPanel5.setForeground(new java.awt.Color(153, 153, 153));
         jPanel5.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
@@ -458,7 +458,7 @@ public void clear(){
 
         jButton2.setBackground(new java.awt.Color(204, 204, 204));
         jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/patient.png"))); // NOI18N
-        jPanel5.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 20, 50, 50));
+        jPanel5.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 10, 50, 50));
 
         jPanel1.add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 0, 390, 520));
 
@@ -559,7 +559,7 @@ public void clear(){
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
-        AdminLog2 ob = new AdminLog2();
+        AdminLog ob = new AdminLog();
         ob.setVisible(true);
         this.dispose();
         

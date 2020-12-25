@@ -163,9 +163,14 @@ public void tableData(){
         jPanel4.setBackground(new java.awt.Color(204, 204, 204));
         jPanel4.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        table1.setBackground(new java.awt.Color(0, 153, 153));
+        table1.setBackground(new java.awt.Color(204, 255, 204));
         table1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
                 {null, null, null, null},
                 {null, null, null, null},
                 {null, null, null, null},
@@ -296,7 +301,7 @@ public void tableData(){
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
-        AdminLog2 ob = new AdminLog2();
+        Patientact ob = new Patientact();
         ob.setVisible(true);
         this.dispose();
 
