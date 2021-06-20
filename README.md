@@ -9,4 +9,4 @@
   </p>
 </p>
 
-[![Site preview](welcome.png)]
+[![Site preview](interfaces/welcome.png)]
