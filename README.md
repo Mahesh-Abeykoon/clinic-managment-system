@@ -10,3 +10,5 @@
 </p>
 
 [![Site preview](interfaces/welcome.png)]
+[![Site preview](interfaces/patient/patient log)]
+[![Site preview](interfaces/doctor/doctor login)]
