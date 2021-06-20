@@ -12,7 +12,7 @@
   </p>
 </p>
 
-[![Site preview](interfaces\welcome 0)]
+[![Site preview](interfaces\welcome) (interfaces\doctor\doctor login)]
 [![Site preview](interfaces\doctor\doctor login)]
 [![Site preview](interfaces\doctor\doctor panal)]
 [![Site preview](interfaces\doctor\doctor activity)]
