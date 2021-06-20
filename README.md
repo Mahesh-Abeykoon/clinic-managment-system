@@ -12,12 +12,6 @@
   </p>
 </p>
 
-[![Site preview](interfaces\welcome.png]
-[![Site preview](interfaces\doctor\doctor login.jpg)]
-[![Site preview](interfaces\doctor\doctor login.jpg)]
-[![Site preview](interfaces\doctor\doctor panal.jpg)]
-[![Site preview](interfaces\doctor\doctor activity)]
-[![Site preview](interfaces\patient\patient log)]
-[![Site preview](interfaces\patient\patient deatails adding panal)]
-[![Site preview](interfaces\patient\patient activity)]
-[![Site preview](interfaces\patient\emergency notice  for the patient)]
+[![Site preview](interfaces\welcome.png)]
+[![Site preview](interfaces\doctor\doctor login.png)]
+[![Site preview](interfaces\patient\patient log.png)]
