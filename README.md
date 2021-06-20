@@ -11,4 +11,9 @@
 
 [![Site preview](interfaces/welcome.png)]
 [![Site preview](interfaces/patient/patient_log.png)]
+[![Site preview](interfaces/patient/patient_details.png)]
+[![Site preview](interfaces/patient/patient_activity.png)]
+[![Site preview](interfaces/patient/emergency_notice.png)]
 [![Site preview](interfaces/doctor/doctor_login.png)]
+[![Site preview](interfaces/doctor/doctor_panal.png)]
+[![Site preview](interfaces/doctor/doctor_activity.png)]
