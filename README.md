@@ -12,8 +12,8 @@
   </p>
 </p>
 
-[![Site preview](interfaces\welcome) (interfaces\doctor\doctor login)]
-[![Site preview](interfaces\doctor\doctor login)]
+[![Site preview](interfaces\welcome.jpg)(interfaces\doctor\doctor login.jpg)]
+[![Site preview](interfaces\doctor\doctor login.jpg)]
 [![Site preview](interfaces\doctor\doctor panal)]
 [![Site preview](interfaces\doctor\doctor activity)]
 [![Site preview](interfaces\patient\patient log)]
