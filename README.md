@@ -12,7 +12,7 @@
   </p>
 </p>
 
-[![Site preview](interfaces\welcome.jpg)]
+[![Site preview](interfaces\welcome.png]
 [![Site preview](interfaces\doctor\doctor login.jpg)]
 [![Site preview](interfaces\doctor\doctor login.jpg)]
 [![Site preview](interfaces\doctor\doctor panal.jpg)]
